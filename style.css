@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(office.jpg);
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar-nav {
+  font-size: 18px;
+}
+
+.header {
+  margin-top: 250px;
+}
+
+.header h1 {
+  font-size: 125px;
+}
+
+.header .lead {
+  font-size: 30px;
+}
